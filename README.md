@@ -5,4 +5,4 @@ This is the ```README``` file for the **Introduction to Machine Learning - Neura
 ### 0 - Installation of Anaconda
 
 1. Go to the Anaconda [website](https://www.anaconda.com/distribution/).
-2. Click on ![ubuntu-penguin](PHDS-Intro-to-NN/images/ubuntu-penguin.png) and download the Anaconda installer for **Python 3.7**
+2. Click on ![](PHDS-Intro-to-NN/images/ubuntu-penguin.png = 250x) and download the Anaconda installer for **Python 3.7**
