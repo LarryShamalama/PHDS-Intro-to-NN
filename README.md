@@ -2,7 +2,7 @@
 
 This is the ```README``` file for the **Introduction to Machine Learning - Neural Networks** component.
 
-If you already have Anaconda, you can skip to section 
+If you already have Anaconda, ensure that you have completed the installation of required Python packages [below](#installation-of-python-packages) 
 
 ## Installation of Anaconda
 
