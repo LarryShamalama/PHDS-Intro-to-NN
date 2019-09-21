@@ -4,7 +4,7 @@ This is the ```README``` file for the **Introduction to Machine Learning - Neura
 
 If you already have Anaconda, you can skip to section 
 
-### Installation of Anaconda
+## Installation of Anaconda
 
 1. Go to the Anaconda [website](https://www.anaconda.com/distribution/).
 2. Click on ![Alt text](/images/ubuntu-penguin.png= 250x) and download the Anaconda installer for **Python 3.7**
@@ -15,8 +15,18 @@ chmod +x Anaconda3-2019.07-Linux-x86_64.sh
 ./Anaconda3-2019.07-Linux-x86_64.sh
 ```
 
-#### Optional: creation of virtual environment
+## Installation of Python packages
 
-What is a virtual environment?
+Similarly as in R, functionalities that we are interested in are often already available in packages. All that is required is that we install them and we are able to do so using Anaconda. 
 
-###
+```
+conda install numpy pandas matplotlib tensorflow keras scikit-learn
+```
+
+#### Brief explanation of every packages' functionalities:
+- ```numpy```: Used for vector and matrix computations, especially for data handling.
+- ```pandas```: Used to load data nicely in data frames. Somewhat equivalent to ```data.frame``` in R.
+- ```matplotlib```: Data visualization and plotting.
+- ```tensorflow```: Machine Learning library maintained by Google that facilitates the implementation and training of neural networks.
+- ```keras```: Package built on top of ```tensorflow```; more user-friendly and easier to understand.
+- ```scikit-learn```: Package containing other statistical or machine learning models (e.g. Logistic/Linear Regression, Random Forests, etc.).
