@@ -1,6 +1,6 @@
 # Public Health Data Science - Intro to Neural Networks
 
-This is the ```README``` file for the **Introduction to Machine Learning - Neural Networks** component.
+This is the ```README``` file (i.e. instruction manual) for the **Introduction to Machine Learning - Neural Networks** component.
 
 If you already have Anaconda, ensure that you have completed the installation of required Python packages [below](#installation-of-python-packages) 
 
