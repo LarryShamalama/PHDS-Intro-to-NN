@@ -33,7 +33,7 @@ conda install numpy pandas matplotlib tensorflow keras scikit-learn
 
 ## Downloading these files
 
-There are two options if you wish to download the files here or any GitHub repository:
+There are two options if you wish to download the files here or from any GitHub repository:
 
 1. Click the green button "Clone or download" and then "Download as ZIP"
 2. (Preferred) Open Terminal and execute the following command:
