@@ -1,4 +1,4 @@
-# Public Health Data Science -- Intro to Neural Networks
+# Public Health Data Science - Intro to Neural Networks
 
 This is the ```README``` file for the **Introduction to Machine Learning - Neural Networks** component.
 
@@ -30,3 +30,13 @@ conda install numpy pandas matplotlib tensorflow keras scikit-learn
 - ```tensorflow```: Machine Learning library maintained by Google that facilitates the implementation and training of neural networks.
 - ```keras```: Package built on top of ```tensorflow```; more user-friendly and easier to understand.
 - ```scikit-learn```: Package containing other statistical or machine learning models (e.g. Logistic/Linear Regression, Random Forests, etc.).
+
+## Downloading these files
+
+There are two options if you wish to download the files here or any GitHub repository:
+
+1 - Click the green button "Clone or download" and then "Download as ZIP"
+2 - (Preferred) Open Terminal and execute
+```
+git clone https://github.com/LarryShamalama/PHDS-Intro-to-NN
+```
