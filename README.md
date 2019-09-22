@@ -7,7 +7,7 @@ If you already have Anaconda, ensure that you have completed the installation of
 ## Installation of Anaconda
 
 1. Go to the Anaconda [website](https://www.anaconda.com/distribution/).
-2. Click on ![Alt text](/images/ubuntu-penguin.png= 250x) and download the Anaconda installer for **Python 3.7**
+2. Click on Linux tab and download the Anaconda installer for **Python 3.7**
 3. Open Terminal and execute the following commands:
 ```
 cd ~/Downloads
@@ -35,8 +35,8 @@ conda install numpy pandas matplotlib tensorflow keras scikit-learn
 
 There are two options if you wish to download the files here or any GitHub repository:
 
-1 - Click the green button "Clone or download" and then "Download as ZIP"
-2 - (Preferred) Open Terminal and execute
+1. Click the green button "Clone or download" and then "Download as ZIP"
+2. (Preferred) Open Terminal and execute the following command:
 ```
 git clone https://github.com/LarryShamalama/PHDS-Intro-to-NN
 ```
