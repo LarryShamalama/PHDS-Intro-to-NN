@@ -41,7 +41,7 @@ There are two options if you wish to download the files here or from any GitHub 
 git clone https://github.com/LarryShamalama/PHDS-Intro-to-NN
 ```
 
-## All set!
+## All set! :blush:
 
 Once you've cloned my repository and successfully installed Anaconda (and Jupyter notebook by extension), open Terminal and type
 ```
