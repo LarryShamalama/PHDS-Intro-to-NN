@@ -1,6 +1,6 @@
 # Public Health Data Science - Intro to Neural Networks
 
-This is the ```README``` file (i.e. instruction manual) for the **Introduction to Machine Learning - Neural Networks** component.
+This is the `README` file for the **Introduction to Machine Learning - Neural Networks** component for the [Digital Public Health](https://digital-public-health.u-bordeaux.fr/) program at the University of Bordeaux.
 
 If you already have Anaconda, ensure that you have completed the installation of required Python packages [below](#installation-of-python-packages). 
 
@@ -9,11 +9,14 @@ If you already have Anaconda, ensure that you have completed the installation of
 1. Go to the Anaconda [website](https://www.anaconda.com/distribution/).
 2. Click on Linux tab and download the Anaconda installer for **Python 3.7**
 3. Open Terminal and execute the following commands:
+
 ```
 cd ~/Downloads
 chmod +x Anaconda3-2019.07-Linux-x86_64.sh
 ./Anaconda3-2019.07-Linux-x86_64.sh
 ```
+
+:exclamation: You may want to reset your Terminal window by simply restarting it.
 
 ## Installation of Python packages
 
