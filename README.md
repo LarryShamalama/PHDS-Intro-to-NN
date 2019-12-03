@@ -6,7 +6,7 @@ If you already have Anaconda, ensure that you have completed the installation of
 
 ## Installation of Anaconda
 
-1. Go to the Anaconda [website](https://www.anaconda.com/distribution/).
+1. Go to the Anaconda website [here](https://www.anaconda.com/distribution/).
 2. Click on Linux tab and download the Anaconda installer for **Python 3.7**
 3. Open Terminal and execute the following commands:
 
@@ -22,8 +22,12 @@ chmod +x Anaconda3-2019.07-Linux-x86_64.sh
 
 Similarly as in R, functionalities that we are interested in are often already available in packages. All that is required is that we install them and we are able to do so using Anaconda. 
 
+In Python, it is a good habit to create a virtual environment for your packages. Although this is optional, this is good practice since packages are frequently updated. Having multiple projects using different versions of a same package could raise unwanted issues.
+
+
 ```
-conda install numpy pandas matplotlib tensorflow keras scikit-learn
+conda create -n yourenvname python=3.7 
+conda install -n yourenvname numpy pandas matplotlib tensorflow keras scikit-learn
 ```
 
 #### Brief explanation of every packages' functionalities:
